@@ -18,4 +18,6 @@ enum BirdBathBirdEnum: string
     case Owl = 'owl';
     case Raven = 'raven';
     case Toucan = 'toucan';
+    case Raptor = 'raptor';
 }
+
